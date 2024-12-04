@@ -44,11 +44,3 @@ En los casos donde los modelos divergieron, se optó por los resultados de SVM p
 
 3. Descargar el archivo CSV necesario desde este [enlace a Drive](https://drive.google.com/drive/folders/1zKEPnngPGV3G_5XQHJBZB3kb8IFGprjT?usp=drive_link).
 
-### Ejecución:
-1. Coloca el archivo CSV en el directorio raíz del proyecto.
-2. Ejecuta el script principal:
-   ```bash
-   python main.py
-   ```
-
-3. Los resultados estarán disponibles en los archivos generados por el script.
